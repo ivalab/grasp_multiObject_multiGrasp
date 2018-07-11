@@ -13,4 +13,8 @@ If you find it helpful for your research, please consider citing:
 
 If you encounter any questions, please contact me at fujenchu[at]gatech[dot]edu
 
+### Acknowledgment
 
+### Resources
+- [multi-object grasp dataset](https://github.com/ivalab/grasp_multiObject)
+- [grasp annotation tool](https://github.com/ivalab/grasp_annotation_tool)
