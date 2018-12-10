@@ -48,12 +48,13 @@ cd ../../..
 ```
 you can see images pop out.
 
-6. Generate data   
-6-1. Download [Cornell Dataset](http://pr.cs.cornell.edu/grasping/rect_data/data.php)
-6-2. Run `dataPreprocessingTest_fasterrcnn_split.m` (please modify paths according to your structure)
-6-3. Follow 'Format Your Dataset' section [here](https://github.com/zeyuanxy/fast-rcnn/tree/master/help/train) to check if your data follows VOC format
+### Train
+1. Generate data   
+1-1. Download [Cornell Dataset](http://pr.cs.cornell.edu/grasping/rect_data/data.php)   
+1-2. Run `dataPreprocessingTest_fasterrcnn_split.m` (please modify paths according to your structure)   
+1-3. Follow 'Format Your Dataset' section [here](https://github.com/zeyuanxy/fast-rcnn/tree/master/help/train) to check if your data follows VOC format   
 
-6. Train
+2. Train
 ```
 ./experiments/scripts/train_faster_rcnn.sh 0 graspRGB res50
 ```
