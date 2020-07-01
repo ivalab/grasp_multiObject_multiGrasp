@@ -65,7 +65,10 @@ you can see images pop out.
 ```
 ./experiments/scripts/train_faster_rcnn.sh 0 graspRGB res50
 ```
- 
+
+### ROS version?
+Yes! please find it [HERE](https://github.com/ivaROS/ros_deep_grasp)
+
 ### Acknowledgment
 
 This repo borrows tons of code from
