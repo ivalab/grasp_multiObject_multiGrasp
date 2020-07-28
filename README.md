@@ -2,6 +2,10 @@
 
 This is the implementation of our RA-L work 'Real-world Multi-object, Multi-grasp Detection'. The detector takes RGB-D image input and predicts multiple grasp candidates for a single object or multiple objects, in a single shot. The original arxiv paper can be found [here](https://arxiv.org/pdf/1802.00520.pdf). The final version will be updated after publication process.
 
+<p align="center">
+<img src="https://github.com/ivalab/grasp_multiObject_multiGrasp/blob/master/fig/multi_grasp_multi_object.png" alt="drawing" width="300"/>
+</p>
+
 If you find it helpful for your research, please consider citing:
 
     @inproceedings{chu2018deep,
